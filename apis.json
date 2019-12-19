@@ -1,0 +1,75 @@
+{
+    "name": "Beanstalk",
+    "description": "Beanstalk is the complete code hosting workflow teams or individuals use to write, review and deploy their code.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/378-beanstalk.jpg",
+    "tags": [
+        "api provider",
+        "coding",
+        "have api",
+        "programming",
+        "subversion"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/beanstalk\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Beanstalk",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/378-beanstalk.jpg",
+            "humanURL": "https:\/\/beanstalkapp.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/beanstalk-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/beanstalk-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.beanstalkapp.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/api.beanstalkapp.com\/#xml"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.beanstalkapp.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.beanstalkapp.com\/rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/beanstalk"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/beanstalk"
+        },
+        {
+            "type": "Email",
+            "url": "support@beanstalkapp.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/beanstalkapp"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/beanstalkapp.com\/"
+        }
+    ]
+}
